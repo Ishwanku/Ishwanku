@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishwanku
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning CODING
+- 🌱 I’m currently learn to CODING
 - 💞️ I’m looking to collaborate on OPEN AI
 - 📫 How to reach me EMAIL- SAINIISHU30@GMAIL.COM
                       INSTA- https://www.instagram.com/i_am_ishu_1999/
