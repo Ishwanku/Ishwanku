@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ishwankku Saini
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning to CODING
+- 👀 I’m interested in AI/ML
+- 🌱 I’m a Full Stack Developer
 - 💞️ I’m looking to collaborate on OPEN AI
 - 📫 How to reach me:-
 - EMAIL- sainiishu30@gmail.com
