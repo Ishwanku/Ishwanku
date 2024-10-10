@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Ishwanku
+- 👋 Hi, I’m Ishwankku Saini
 - 👀 I’m interested in AI
-- 🌱 I’m currently learn to CODING
+- 🌱 I’m currently learning to CODING
 - 💞️ I’m looking to collaborate on OPEN AI
-- 📫 How to reach me EMAIL- SAINIISHU30@GMAIL.COM
-                      INSTA- https://www.instagram.com/i_am_ishu_1999/
+- 📫 How to reach me:-
+- EMAIL- sainiishu30@gmail.com
+- Portfolio- https://www.crio.do/learn/portfolio/sainiishu30
 
 <!---
 Ishwanku/Ishwanku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
