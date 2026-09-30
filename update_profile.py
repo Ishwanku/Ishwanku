@@ -12,7 +12,7 @@ import urllib.request
 from datetime import date, datetime, timezone
 
 USER = "Ishwanku"
-BIRTHDAY = date(1900, 1, 1)  # TODO: real date of birth -- selfcheck refuses to render until set
+BIRTHDAY = date(1999, 9, 19)
 JOINED_YEAR = 2017  # account creation year, never changes
 W = 56  # info column width in characters
 
