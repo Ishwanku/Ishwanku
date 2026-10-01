@@ -12,7 +12,7 @@ import urllib.request
 from datetime import date, datetime, timezone
 
 USER = "Ishwanku"
-BIRTHDAY = date(1999, 9, 19)
+CAREER_START = date(2023, 3, 1)  # ponytail: never a birth date, the card is public and updates daily
 JOINED_YEAR = 2017  # account creation year, never changes
 W = 56  # info column width in characters
 
@@ -177,7 +177,7 @@ def rule(title=""):
 
 
 def info_lines(s):
-    y, m, d = age(BIRTHDAY, date.today())
+    y, m, d = age(CAREER_START, date.today())
     n = lambda x: f"{x:,}"
     return [
         [(f"{USER.lower()}@github ", "h"), ("─" * (W - len(USER) - 8), "d")],
@@ -236,7 +236,7 @@ def render(mode, stats):
 
 
 def selfcheck():
-    assert BIRTHDAY.year > 1900, "set BIRTHDAY before rendering"
+    assert CAREER_START.year > 1900, "set CAREER_START before rendering"
     assert age(date(1989, 1, 15), date(2026, 7, 10)) == (37, 5, 25)
     assert age(date(2000, 3, 31), date(2026, 4, 1)) == (26, 0, 1)
     assert age(date(2000, 1, 1), date(2026, 1, 1)) == (26, 0, 0)
